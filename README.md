@@ -1,13 +1,9 @@
-👋 Hi there, I'm Brunella Carvalho
+👋 Hi there, I'm Brunella Carvalho,
 
-🌍 Brazilian living in the Netherlands
-
-🏃‍♀️ Passionate about running and discovering new places
-
-👩🏻‍💻 Aspiring Full-Stack Developer, exploring the tech world every day
-
-🎯 Currently immersed in a web development bootcamp aiming to build impactful projects and solutions
-
+🌍 Brazilian living in the Netherlands;
+🏃‍♀️ Passionate about running and discovering new places;
+👩🏻‍💻 Aspiring Full-Stack Developer, exploring the tech world every day;
+🎯 Currently immersed in a web development bootcamp aiming to build impactful projects and solutions.
 
 
 
