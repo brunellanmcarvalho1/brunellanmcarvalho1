@@ -1,12 +1,10 @@
-👋 Hi there, I'm Brunella Carvalho,
+👋 Hi there, I'm Brunella Carvalho!
 
-🌍 Brazilian living in the Netherlands;
+🌍 Brazilian living in the Netherlands. <br>
+🏃‍♀️ Passionate about running and discovering new places. <br>
 
-🏃‍♀️ Passionate about running and discovering new places;
-
-👩🏻‍💻 Aspiring Full-Stack Developer, exploring the tech world every day.
-🎯 Currently immersed in a web development bootcamp aiming to build impactful projects and solutions.
-
+👩🏻‍💻 Aspiring Full-Stack Developer, exploring the tech world every day. <br>
+🎯 Currently immersed in a web development bootcamp aiming to build impactful projects and solutions. <br>
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
